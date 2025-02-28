@@ -1,0 +1,17 @@
+
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    width: 500px;
+    background-color: rgb(210, 215, 230);
+}
+.flex-child{
+    flex-grow: 1;
+    height: 110px;
+    border: 2px solid rgb(60, 90, 130);
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
