@@ -1,0 +1,21 @@
+
+.container{
+    width: 80%;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid rgb(50, 50, 50);
+}
+.block-element{
+    display: block;
+    background-color: rgb(210, 230, 250);
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
+.inline-element{
+    display: inline;
+    color: rgb(50, 50, 50);
+    margin-right: 20px;
+}
