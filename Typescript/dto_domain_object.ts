@@ -1,4 +1,3 @@
-// write your code here
 interface ProductDto {
     id: number;
     name: string;
